@@ -16,7 +16,7 @@ This App is made in Android Studio.
 
 ## Screenshots
 
-![App Screenshot](https://github.com/CrossStack-Q/Twitter/blob/main/Screenshots/one.png?raw=true)
+![App Screenshot](https://github.com/CrossStack-Q/Geet_T/blob/main/Screenshots/one.png?raw=true)
 
 
 ## Developer
