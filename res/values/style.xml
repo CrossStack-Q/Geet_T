@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+        xmlns:tools="http://schemas.android.com/tools">
+
+
+
+        <style name="TextViewHeadline4" parent="TextAppearance.MaterialComponents.Headline4" />
+
+        <style name="TextViewHeadline5" parent="TextAppearance.MaterialComponents.Headline5" />
+
+        <style name="TextViewCaption" parent="TextAppearance.MaterialComponents.Caption" />
+
+        <style name="TextViewHeadline6" parent="TextAppearance.MaterialComponents.Headline6" />
+
+        <style name="TextViewHeadline3" parent="TextAppearance.MaterialComponents.Headline3" />
+
+        <style name="TextViewHeadline2" parent="TextAppearance.MaterialComponents.Headline2" />
+
+        <style name="TextViewSubtitle1" parent="TextAppearance.MaterialComponents.Subtitle1" />
+
+        <style name="TextViewSubtitle2" parent="TextAppearance.MaterialComponents.Subtitle2" />
+
+        <style name="TextViewBody1" parent="TextAppearance.MaterialComponents.Body1" />
+
+        <style name="TextViewButton" parent="TextAppearance.MaterialComponents.Button" />
+
+        <style name="TextViewBody2" parent="TextAppearance.MaterialComponents.Body2" />
+
+
+    <style name="OverFlowButton">
+        <item name="srcCompat">@drawable/ic_more_vert</item>
+        <item name="android:layout_width">48dp</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="android:scaleType">center</item>
+        <item name="android:focusableInTouchMode">false</item>
+        <item name="android:focusable">false</item>
+    </style>
+
+
+
+</resources>

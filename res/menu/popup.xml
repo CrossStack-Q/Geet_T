@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_toggle_favorite"
+        android:checkable="true"
+        android:icon="@drawable/ic_favorite"
+        android:orderInCategory="2"
+        android:title="@string/favorites"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_go_to_album"
+        android:icon="@drawable/ic_album"
+        android:orderInCategory="4"
+        android:title="@string/action_go_to_album" />
+    <item
+        android:id="@+id/action_go_to_artist"
+        android:orderInCategory="4"
+        android:title="@string/action_go_to_artist" />
+    <item
+        android:id="@+id/action_go_to_genre"
+        android:orderInCategory="4"
+        android:title="@string/action_go_to_genre"
+        android:visible="false" />
+    <item
+        android:id="@+id/action_add_to_playlist"
+        android:orderInCategory="5"
+        android:title="@string/action_add_to_playlist" />
+
+    <item
+        android:id="@+id/action_share"
+        android:orderInCategory="7"
+        android:title="@string/action_share" />
+    <item
+        android:id="@+id/action_set_as_ringtone"
+        android:orderInCategory="8"
+        android:title="@string/action_set_as_ringtone" />
+
+    <item
+        android:id="@+id/action_details"
+        android:orderInCategory="10"
+        android:title="@string/action_details" />
+    <item
+        android:id="@+id/action_go_to_lyrics"
+        android:orderInCategory="11"
+        android:title="@string/action_go_to_lyrics" />
+
+    <item
+        android:id="@+id/action_delete_from_device"
+        android:orderInCategory="14"
+        android:title="@string/action_delete_from_device" />
+</menu>
